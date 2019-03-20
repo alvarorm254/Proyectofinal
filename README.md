@@ -35,3 +35,9 @@ THRESHOLDING:<br/><br/>
 ![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/Binary.png)<br/><br/>
 EQUALIZATION:<br/><br/>
 ![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/equalization.png)<br/><br/>
+NOISE:<br/><br/>
+![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/noise.png)<br/><br/>
+MEDIAN:<br/><br/>
+![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/median.png)<br/><br/>
+
+In the last two images we can see how aplying median filter can clean the salt and pepper noise.
