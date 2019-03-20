@@ -31,3 +31,7 @@ REQUANTIZATION:<br/>
 ![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/req.png)<br/>
 SUBSAMPLING:<br/>
 ![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/subsampling.png)<br/>
+THRESHOLDING:<br/>
+![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/Binary.png)<br/>
+EQUALIZATION:<br/>
+![alt text](https://github.com/alvarorm254/Proyectofinal)<br/>
