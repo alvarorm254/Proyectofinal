@@ -4,10 +4,10 @@ The project folder contains multiples cuda functions used to compile a image edi
 
 ## Execution<br/>
 
-The compilation line is shown below:<br/>
-nvcc main.cu -o out -lglut -lGLEW -lGL -lm -ccbin clang-3.8 -lstdc++<br/>
-Finally execute the program with:<br/>
-./out<br/>
+The compilation line is shown below:<br/><br/>
+nvcc main.cu -o out -lglut -lGLEW -lGL -lm -ccbin clang-3.8 -lstdc++<br/><br/>
+Finally execute the program with:<br/><br/>
+./out<br/><br/>
 The project contains the following processing:<br/>
 -Image subsamplig(pixelated images).<br/>
 -Image requantization.<br/>
