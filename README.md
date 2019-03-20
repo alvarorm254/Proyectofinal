@@ -34,4 +34,4 @@ SUBSAMPLING:<br/><br/>
 THRESHOLDING:<br/><br/>
 ![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/Binary.png)<br/><br/>
 EQUALIZATION:<br/><br/>
-![alt text](https://github.com/alvarorm254/Proyectofinal)<br/><br/>
+![alt text](https://github.com/alvarorm254/Proyectofinal/blob/master/equalization.png)<br/><br/>
